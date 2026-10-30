@@ -32,12 +32,14 @@
 - 完美适配遥控器
 - 完美对接原厂系统设置、输入源切换、自定义亮度
 
+<img width="1920" height="1080" alt="Aerial 桌面" src="https://github.com/user-attachments/assets/5c15428c-74bb-4e17-8031-6a7c3fd4021c" />
+
 ### CleanYourTV 桌面
 
 - 完美适配遥控器
 - 完美对接原厂系统设置、输入源切换
 
-<img width="1920" height="1080" alt="CleanYourTV桌面" src="https://github.com/user-attachments/assets/28cbc63a-5b48-49f1-972a-5f0ebb2e6993" />
+<img width="1920" height="1080" alt="CleanYourTV 桌面" src="https://github.com/user-attachments/assets/28cbc63a-5b48-49f1-972a-5f0ebb2e6993" />
 
 ### 安装方法
 
