@@ -92,5 +92,5 @@
 | 项目 | 截图 |
 | --- | --- |
 | 设置 | <img width="1920" height="1080" alt="设置" src="https://github.com/user-attachments/assets/02b289e1-4eea-4998-8fa0-a2aa434edaf7" /> |
-| 系统信息 | <img width="1920" height="1080" alt="系统信息" src="https://github.com/user-attachments/assets/bbd7f496-23c2-469b-bfba-678a6a34df91" /> |
+| 系统信息 | <img width="1920" height="1080" alt="系统信息" src="https://github.com/user-attachments/assets/599ffd94-2a29-4a62-a7e6-fa1ac7b61381" /> |
 | HDMI 信号源 | <img width="1920" height="1080" alt="信号源" src="https://github.com/user-attachments/assets/1f459aa4-fae7-42b2-93fd-c85385d6d493" /> |
