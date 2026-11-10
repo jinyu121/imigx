@@ -18,7 +18,6 @@
 | 壁纸及场景 | 壁纸模式、任意门／天光云影 |
 | 账户及支付 | 极米服务 AccountManager（`com.xgimi.account`）、极米支付 SDK |
 | 播放器 | 本地播放器 GimiPlayer |
-| 重复投屏组件 | Miracast、投屏 Demo |
 
 - 保留系统设置、资源管理器、极米助手、极米投屏、搜狗输入法、首次开机向导，以及对焦、镜头盖、蓝牙、音频等所需的系统和硬件组件。
 - 保留系统保护名单中的原厂桌面、系统升级、个人中心（`com.xgimi.user`）、流媒体核心（`com.xgimi.stream.media`）。
